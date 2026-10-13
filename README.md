@@ -9,7 +9,7 @@ You can choose any of these three parts:
 | Part | What you get | What you need |
 |---|---|---|
 | **1. GE engine model** | GE engines on the wings instead of the Rolls-Royce ones, with working thrust reversers, engine shake and wing flex like the default engines | carda jowol's [General Electric CF6-80E1 Engine Mod for JAR330](https://forum.thresholdx.net/files/file/567-general-electric-cf6-80e1-engine-mod-for-jar330/) (free) |
-| **2. FTSIM sound pack** | GE engine sounds | [FTSIM+ Sounds A330 GE sound pack](https://www.ftsimplus.net/a330ge.html) (payware) |
+| **2. FTSIM sound pack** | GE engine sounds | [FTSIM+ Sounds A330 GE sound pack](https://www.patreon.com/FTSIM/posts/a330-310ge-sp-x-37803750) (payware) |
 | **3. GE cockpit screens** | The engine displays look like a real GE A330: N1 as the main gauge, GE-style numbers, GE limits | nothing, it's built in |
 
 ---
