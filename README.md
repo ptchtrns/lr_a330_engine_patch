@@ -22,7 +22,7 @@ You can choose any of these three parts:
   - **GE engines (free):** [General Electric CF6-80E1 Engine Mod for JAR330](https://forum.thresholdx.net/files/file/567-general-electric-cf6-80e1-engine-mod-for-jar330/). Download it from that page.
     It says "for JAR330", but you don't need the JARDesign A330.
     The script installs it into the default Laminar A330.
-  - **GE sounds (paid):** [FTSIM+ Sounds A330 GE sound pack](https://www.ftsimplus.net/a330ge.html). Buy and download it from FTSIM's site.
+  - **GE sounds (paid):** [FTSIM+ Sounds A330 GE sound pack](https://www.patreon.com/FTSIM/posts/a330-310ge-sp-x-37803750). Buy and download it from FTSIM's site.
 
 ---
 
