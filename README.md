@@ -203,7 +203,7 @@ Sources:
 
 - **Laminar Research:** the default A330-300.
 - **carda jowol (Daniel Carley):** [General Electric CF6-80E1 Engine Mod for JAR330](https://forum.thresholdx.net/files/file/567-general-electric-cf6-80e1-engine-mod-for-jar330/).
-- **FTSIM+ Sounds:** [FTSIM+ Sounds A330 GE sound pack](https://www.ftsimplus.net/a330ge.html).
+- **FTSIM+ Sounds:** [FTSIM+ Sounds A330 GE sound pack](https://www.patreon.com/FTSIM/posts/a330-310ge-sp-x-37803750).
 
 The add-ons belong to their authors. This setup doesn't include any of their files. It
 only installs the copies you got yourself from the links above. Please don't share
